@@ -20,3 +20,16 @@ Underline 2
 - formato __bold o strong__ de la segunda forma.
 - formato ~~tachado~~, formato normal.
 - aqui podemos usar *formato italica*, pero tambien **bold** y ~~tachado~~ 
+
+# Listas
+1. Esto es un item de lista ordenada
+2. Esto es un item de lista ordenada
+3. Esto es un item de lista ordenada
+- Esto es un item de lista desordenada
+- Esto es un item de lista desordenada
+- Esto es un item de lista desordenada
+
+# Link
+- <a href="http://www.google.com"> Esto es un link HTML </a>
+- [Esto es un link en markdown](http://www.google.com)
+- [Esto es un link al index](index.html)
