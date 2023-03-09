@@ -37,3 +37,17 @@ Underline 2
 
 # Imagenes
 ![Logo GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+
+# Code Snippet
+```JSON
+{
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+```
